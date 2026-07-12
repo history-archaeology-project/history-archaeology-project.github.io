@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Historical and Archaeological Research Project
 
 Welcome to our digital space dedicated to the study of world history, material culture, and archaeological discoveries. Here we publish field research, artifact catalogs, and historical essays.
