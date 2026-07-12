@@ -13,9 +13,9 @@ For decades, archaeologists and geologists were trapped in a fierce academic war
 
 While traditional archaeological dating placed the disaster around **1500 BCE**, modern science began looking for answers thousands of miles away from the Mediterranean—hidden deep inside the **ancient ice sheets of Greenland**.
 
-![Ice Core Sample Research](https://upload.wikimedia.org/wikipedia/commons/5/5f/GISP2_ice_core_1885m_depth.jpg)
+![Greenland Ice Core Exploration](https://images.unsplash.com/photo-1516937941344-00b4e0337589?q=80&w=1200&auto=format&fit=crop)
 
-*An ice core sample showing annual layers. Scientists use these arctic time capsules to date ancient volcanic eruptions.*
+*Scientists extracting deeply buried ice cores from polar ice caps to study ancient atmospheric data.*
 
 ## 🧊 The Arctic Time Machine
 
