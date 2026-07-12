@@ -5,7 +5,5 @@ description: "Digital archive of historical research and archaeological discover
 navigation:
   - title: "Home"
     url: "/"
-  - title: "Sea Peoples"
-    url: "/articles/sea-peoples"
-  - title: "Göbekli Tepe"
-    url: "/articles/gobekli-tepe"
+  - title: "All Articles"
+    url: "/articles/"
