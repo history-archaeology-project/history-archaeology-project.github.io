@@ -22,6 +22,9 @@ Explore the geographic locations of our archaeological and historical investigat
 
 ## 📚 Recent Articles
 
+*   ### 🌋 [The Minoan Eruption: The Real Atlantis?](/articles/minoan-eruption)
+    *Explore the cataclysmic volcanic explosion around 1600 BCE that devastated the Minoan civilization and likely inspired the global legend of Atlantis.*
+
 *   ### 🏛️ [Göbekli Tepe: The Site That Rewrote Human History](/articles/gobekli-tepe)
     *Built over 11,000 years ago, this massive megalithic complex predates agriculture itself. Explore how religion might have forced humans to invent farming.*
 
