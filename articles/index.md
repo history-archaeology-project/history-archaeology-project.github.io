@@ -8,6 +8,8 @@ title: Archive of All Articles
 Welcome to the full archive of our historical and archaeological articles. Here you can find all published materials in chronological order.
 
 ---
+*   **[The Ice Core Mystery: Dating the Thera Cataclysm](/articles/ice-core-mystery)** — *The scientific detective story inside Greenland's ice caps.*
+*   
 *   **[The Last Day of Akrotiri: Escape from Thera](/articles/last-day-of-akrotiri)** — *How an organized evacuation saved a population but left a ghost town preserved in time.*
 
 *   **[The Minoan Eruption: The Real Atlantis?](/articles/minoan-eruption)** — *Explore the cataclysmic volcanic explosion that devastated the Minoan civilization.*
