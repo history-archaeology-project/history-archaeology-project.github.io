@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Mystery of the Sea Peoples
+---
+
 # The Mystery of the Sea Peoples: Who Destroyed the Bronze Age?
 
 *Published: July 2026 | Category: Bronze Age Archaeology*
