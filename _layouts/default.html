@@ -48,27 +48,25 @@
             <span><i class="far fa-clock"></i> {{ read_time }} min read</span>
         </div>
 
-        {{ content }}
+       {{ content }}
 
-                    {% if page.layout == "post" %}
-                    <div class="giscus-comments" style="margin-top: 50px; border-top: 1px solid var(--widget-border); padding-top: 30px;">
-                      <script src="https://giscus.app/client.js"
-                              data-repo="history-archaeology-project/history-archaeology-project.github.io"
-                              data-repo-id="R_kgDOTV8XuA"
-                              data-category="General"
-                              data-category-id="DIC_kwDOTV8XuM4DBBl6"
-                              data-mapping="pathname"
-                              data-strict="0"
-                              data-reactions-enabled="1"
-                              data-emit-metadata="0"
-                              data-input-position="bottom"
-                              data-theme="light_high_contrast"
-                              data-lang="en"
-                              crossorigin="anonymous"
-                              async>
-                      </script>
-                    </div>
-                    {% endif %}
+<div class="giscus-comments" style="margin-top: 50px; border-top: 1px solid var(--widget-border); padding-top: 30px;">
+  <script src="https://giscus.app/client.js"
+          data-repo="history-archaeology-project/history-archaeology-project.github.io"
+          data-repo-id="R_kgDOTV8XuA"
+          data-category="General"
+          data-category-id="DIC_kwDOTV8XuM4DBBl6"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="light_high_contrast"
+          data-lang="en"
+          crossorigin="anonymous"
+          async>
+  </script>
+</div>
 
                     <div class="share-buttons">
                         <h4>Share this research:</h4>
