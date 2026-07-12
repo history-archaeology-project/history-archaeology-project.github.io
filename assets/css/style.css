@@ -1,0 +1,100 @@
+body {
+    font-family: "Georgia", "Times New Roman", serif;
+    background-color: #fcfaf2;
+    color: #2b2b2b;
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.site-header {
+    background-color: #1a252f;
+    color: #ffffff;
+    padding: 40px 0 20px 0;
+    border-bottom: 4px solid #8e44ad;
+}
+
+.site-title a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 2.2rem;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+.site-description {
+    color: #bdc3c7;
+    margin: 5px 0 20px 0;
+    font-style: italic;
+    font-size: 1rem;
+}
+
+.site-navigation ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border-top: 1px solid #34495e;
+    padding-top: 10px;
+}
+
+.site-navigation li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.site-navigation a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.site-navigation a:hover {
+    color: #f1c40f;
+}
+
+.site-content {
+    padding: 50px 0;
+}
+
+.page-article h1 {
+    font-size: 2.4rem;
+    color: #111111;
+    margin-top: 0;
+}
+
+.page-article h2 {
+    font-size: 1.6rem;
+    color: #2c3e50;
+    border-bottom: 1px solid #d5dbdb;
+    padding-bottom: 8px;
+    margin-top: 40px;
+}
+
+.page-article img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin: 20px 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.page-article em {
+    color: #555555;
+}
+
+.site-footer {
+    background-color: #1a252f;
+    color: #7f8c8d;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 0.9rem;
+    margin-top: 60px;
+}
