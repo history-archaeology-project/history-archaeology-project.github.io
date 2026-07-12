@@ -13,8 +13,6 @@ Around 1200 BCE, the civilized world of the Eastern Mediterranean came to a sudd
 
 For centuries, archaeologists and historians have pointed the finger at a mysterious group of invaders known as the **"Sea Peoples."** But who exactly were they, and does archaeology support the story of a massive invasion?
 
-![Ancient Egyptian Relief showing a naval battle](https://upload.wikimedia.org/wikipedia/commons/e/e4/Medinet_Habu_Ramses_III._Naval_battle.jpg)
-*An ancient relief from Medinet Habu depicting Ramesses III defeating the Sea Peoples in a naval battle.*
 
 ## 🏛️ What the Artifacts Tell Us
 
