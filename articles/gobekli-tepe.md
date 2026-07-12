@@ -13,8 +13,8 @@ For decades, the textbook story of human civilization was simple: humans invente
 
 Welcome to **Göbekli Tepe**, a massive megalithic complex built around **9600 BCE**—more than 11,000 years ago. It is roughly 6,000 years older than Stonehenge and older than agriculture itself.
 
-![Göbekli Tepe archaeological site](https://upload.wikimedia.org/wikipedia/commons/4/47/G%C3%B6bekli_Tepe_Klaus_Schmidt_02.jpg)
-*The massive T-shaped limestone pillars of Göbekli Tepe, excavated under the direction of Klaus Schmidt.*
+![Detailed illustration of the Göbekli Tepe archaeological site enclosure, showing massive T-shaped limestone pillars with complex relief carvings. The ancient structures are partially covered by modern translucent research canopies, under which a team of scientists (in red and orange parkas) are diligently analyzing artifacts and pillars using dual rugged tablets and laptops, mirroring the scientific workflow from previous illustrations. The dry, golden-brown Sanliurfa plains stretch into the background under a pale sun, emphasizing the remote, arid setting. A small research plaque is visible on the site.](https://i.ibb.co/nqg7jM6n/Gemini-Generated-Image-pqft3wpqft3wpqft.webp)
+> *The massive T-shaped limestone pillars of Göbekli Tepe, excavated under the direction of Klaus Schmidt. Illustration created by our editorial team using AI tools for this article.*
 
 ## 🏛️ What Makes It Unique?
 
