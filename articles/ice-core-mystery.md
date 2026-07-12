@@ -13,7 +13,7 @@ For decades, archaeologists and geologists were trapped in a fierce academic war
 
 While traditional archaeological dating placed the disaster around **1500 BCE**, modern science began looking for answers thousands of miles away from the Mediterranean—hidden deep inside the **ancient ice sheets of Greenland**.
 
-![Scientists analyzing an ice core sample in Greenland]( /assets/images/ice-core-research.png )
+![Greenland Ice Core Exploration](https://images.unsplash.com/photo-1516937941344-00b4e0337589?q=80&w=1200&auto=format&fit=crop)
 
 *Scientists extracting deeply buried ice cores from polar ice caps to study ancient atmospheric data.*
 
