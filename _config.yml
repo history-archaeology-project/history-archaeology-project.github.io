@@ -1,3 +1,9 @@
-theme: jekyll-theme-leap-day
-title: Historical & Archaeological Research
-description: Exploring the past through material culture and digital archives.
+remote_theme: []
+title: "History & Archaeology"
+description: "Digital archive of historical research and archaeological discoveries."
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Articles"
+    url: "/articles/sea-peoples"
