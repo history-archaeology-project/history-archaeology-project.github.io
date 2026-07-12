@@ -4,7 +4,7 @@ Welcome to our digital space dedicated to the study of world history, material c
 
 ---
 
-## 📚 Recent Articles (Последние статьи)
+## 📚 Recent Articles
 
 *   ### 🌊 [The Mystery of the Sea Peoples: Who Destroyed the Bronze Age?](./articles/sea-peoples)
     *Around 1200 BCE, the civilized world of the Eastern Mediterranean came to a sudden and violent end. Discover who the mysterious invaders were and what modern archaeology says about the system collapse.*
