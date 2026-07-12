@@ -13,7 +13,7 @@ Welcome to our digital space dedicated to the study of world history, material c
 Explore the geographic locations of our archaeological and historical investigations. Click on the map to visualize the ancient world:
 
 <div class="map-container">
-    <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=25.0%2C28.0%2C45.0%2C42.0&amp;layer=mapnik&amp;marker=37.223%2C38.922" style="border: 1px solid black"></iframe>
+    <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=25.0%2C28.0%2C45.0%2C42.0&amp;layer=mapnik&amp;marker=37.223%2C38.922" style="border: 1px solid black" loading="lazy" defer title="Interactive archaeological map"></iframe>
 </div>
 
 <p style="text-align: center; font-style: italic; font-size: 0.9rem;">Pinned: Göbekli Tepe (Southeastern Anatolia) and the Eastern Mediterranean Basin.</p>
