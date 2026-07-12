@@ -13,7 +13,7 @@ For decades, archaeologists and geologists were trapped in a fierce academic war
 
 While traditional archaeological dating placed the disaster around **1500 BCE**, modern science began looking for answers thousands of miles away from the Mediterranean—hidden deep inside the **ancient ice sheets of Greenland**.
 
-![A scientist in a red arctic parka working with a long cylindrical ice core sample inside a specialized polar research dome tent in Greenland. The tent contains scientific equipment and shows faint annual layers in the ice. Outside the tent, a desolate, windswept ice sheet and a pale blue, cold sky are visible, emphasizing the remote location far from any industrial structures. The photo is a realistic, high-quality photograph taken in natural light.](image_0.png)
+![Scientists analyzing an ice core sample in Greenland]( /assets/images/ice-core-research.png )
 
 *Scientists extracting deeply buried ice cores from polar ice caps to study ancient atmospheric data.*
 
