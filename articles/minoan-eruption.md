@@ -11,7 +11,7 @@ title: The Minoan Eruption - The Real Atlantis?
 
 Around 1600 BCE, the Aegean Sea witnessed one of the most cataclysmic volcanic events in human history: the **Minoan eruption** of Thera (modern-day Santorini). The explosion was so violent that it completely altered the geography of the island, devastated the island of Crete, and likely gave birth to Plato's famous legend of **Atlantis**.
 
-![Santorini Caldera](https://upload.wikimedia.org/wikipedia/commons/d/d4/Santorini_Thira_Sunsent_01.jpg)
+![<img src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR9CLcFlIU_n41p3fnVyO2xfZmAxW4VkUTkRkrf5xH3UmMAjXxJ3ATFunSitwnNYHoFYTw62C4KKbbj_9Q" alt="Santorini Caldera" loading="lazy" width="800" height="450">)
 *The modern caldera of Santorini, a silent reminder of the ancient explosion that shook the Bronze Age world.*
 
 ## 🌋 The Bronze Age Apocalypse
