@@ -13,7 +13,7 @@ The Aegean sun usually brought life to the bustling port of Akrotiri, but on thi
 
 For weeks, the great mountain at the center of Thera had been clearing its throat. Minor tremors had already cracked the stone walls of the three-story villas and shattered fine pottery. The Minoans were people of the sea—they knew the signs, and they knew it was time to run.
 
-![Excavated streets of Akrotiri](https://upload.wikimedia.org/wikipedia/commons/a/a2/Akrotiri_20110928_05.jpg)
+![Excavated streets of Akrotiri](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR0Z4mon2yDyKmMF-w2mQbIxhebnwovWhEWMUYMJZGNQJTd15DnBsMjM5zqulzFr6_5_tFzyUnRVOzidZE)
 
 *The covered ruins of Akrotiri today, revealing highly advanced multi-story houses preserved by volcanic ash.*
 
