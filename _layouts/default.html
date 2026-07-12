@@ -1,18 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
 
     <header class="site-header">
         <div class="container">
-            <div class="site-branding">
-                <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-                <p class="site-description">{{ site.description }}</p>
+            <div class="header-top">
+                <div class="site-branding">
+                    <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+                    <p class="site-description">{{ site.description }}</p>
+                </div>
+                <button id="theme-toggle" title="Toggle Dark/Light Mode">
+                    <i class="fas fa-moon"></i>
+                </button>
             </div>
             <nav class="site-navigation">
                 <ul>
@@ -24,30 +30,54 @@
         </div>
     </header>
 
-    <main class="site-content">
-        <div class="container">
-            <article class="page-article">
-                {{ content }}
-<div class="giscus-comments" style="margin-top: 50px; border-top: 1px solid #d5dbdb; padding-top: 30px;">
-  <script src="https://giscus.app/client.js"
-          data-repo="history-archaeology-project/history-archaeology-project.github.io"
-          data-repo-id="R_kgDONo_abc" 
-          data-category="Announcements"
-          data-category-id="DIC_kwDONo_abc"
-          data-mapping="pathname"
-          data-strict="0"
-          data-reactions-enabled="1"
-          data-emit-metadata="0"
-          data-input-position="top"
-          data-theme="light"
-          data-lang="en"
-          crossorigin="anonymous"
-          async>
-  </script>
-</div>
-            </article>
+    <div class="container">
+        <!-- Двухколоночный макет -->
+        <div class="main-layout">
+            
+            <!-- Левая колонка: Основной контент -->
+            <main class="site-content">
+                <article class="page-article">
+                    {% assign words = content | number_of_words %}
+                    {% if words < 360 %}
+                      {% assign read_time = 1 %}
+                    {% else %}
+                      {% assign read_time = words | divided_by: 180 %}
+                    {% endif %}
+                    
+                    <div class="article-meta">
+                        <span><i class="far fa-calendar-alt"></i> {{ site.time | date: '%B %Y' }}</span> | 
+                        <span><i class="far fa-clock"></i> {{ read_time }} min read</span>
+                    </div>
+
+                    {{ content }}
+
+                    <div class="share-buttons">
+                        <h4>Share this research:</h4>
+                        <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" target="_blank" class="share-btn twitter"><i class="fab fa-twitter"></i> Twitter</a>
+                        <a href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title }}" target="_blank" class="share-btn telegram"><i class="fab fa-telegram-plane"></i> Telegram</a>
+                        <button onclick="navigator.clipboard.writeText(window.location.href); alert('Link copied!');" class="share-btn copy-link"><i class="fas fa-link"></i> Copy Link</button>
+                    </div>
+                </article>
+            </main>
+
+            <!-- ПРАВАЯ КОЛОНКА: СИДЕБАР -->
+            <aside class="site-sidebar">
+                <div class="sidebar-widget about-me">
+                    <h3><i class="fas fa-university"></i> About Project</h3>
+                    <p>Digital archive dedicated to historical research, field archaeology, and ancient mysteries. Uncovering the secrets of the past.</p>
+                </div>
+                
+                <div class="sidebar-widget recent-posts">
+                    <h3><i class="fas fa-scroll"></i> Latest Research</h3>
+                    <ul>
+                        <li><a href="/articles/gobekli-tepe">Göbekli Tepe Cult Complex</a></li>
+                        <li><a href="/articles/sea-peoples">The Sea Peoples Crisis</a></li>
+                    </ul>
+                </div>
+            </aside>
+
         </div>
-    </main>
+    </div>
 
     <footer class="site-footer">
         <div class="container">
@@ -55,5 +85,39 @@
         </div>
     </footer>
 
+    <button id="back-to-top" title="Go to top"><i class="fas fa-arrow-up"></i></button>
+
+    <script>
+        // Тёмная тема
+        const toggleBtn = document.getElementById('theme-toggle');
+        const currentTheme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        updateToggleIcon(currentTheme);
+
+        toggleBtn.addEventListener('click', () => {
+            let theme = document.documentElement.getAttribute('data-theme');
+            let newTheme = theme === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            updateToggleIcon(newTheme);
+        });
+
+        function updateToggleIcon(theme) {
+            toggleBtn.innerHTML = theme === 'dark' ? '<i class="fas fa-sun"></i>' : '<i class="fas fa-moon"></i>';
+        }
+
+        // Кнопка Наверх
+        const bttBtn = document.getElementById('back-to-top');
+        window.onscroll = function() {
+            if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+                bttBtn.style.display = "block";
+            } else {
+                bttBtn.style.display = "none";
+            }
+        };
+        bttBtn.addEventListener('click', () => {
+            window.scrollTo({top: 0, behavior: 'smooth'});
+        });
+    </script>
 </body>
 </html>
