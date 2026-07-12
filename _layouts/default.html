@@ -33,23 +33,22 @@
     <div class="container">
         
         <div class="main-layout">
-            
-            <!-- Левая колонка: Основной контент -->
-            <main class="site-content">
-                <article class="page-article">
-                    {% assign words = content | number_of_words %}
-                    {% if words < 360 %}
-                      {% assign read_time = 1 %}
-                    {% else %}
-                      {% assign read_time = words | divided_by: 180 %}
-                    {% endif %}
-                    
-                    <div class="article-meta">
-                        <span><i class="far fa-calendar-alt"></i> {{ site.time | date: '%B %Y' }}</span> | 
-                        <span><i class="far fa-clock"></i> {{ read_time }} min read</span>
-                    </div>
+           
+<main class="site-content">
+    <article class="page-article">
+        {% assign words = content | number_of_words %}
+        {% if words < 360 %}
+          {% assign read_time = 1 %}
+        {% else %}
+          {% assign read_time = words | divided_by: 180 %}
+        {% endif %}
+        
+        <div class="article-meta">
+            <span><i class="far fa-calendar-alt"></i> {{ site.time | date: '%B %Y' }}</span> | 
+            <span><i class="far fa-clock"></i> {{ read_time }} min read</span>
+        </div>
 
-                    {{ content }}
+        {{ content }}
 
                     <div class="giscus-comments" style="margin-top: 50px; border-top: 1px solid var(--widget-border); padding-top: 30px;">
                       <script src="https://giscus.app/client.js"
@@ -106,7 +105,6 @@
     <button id="back-to-top" title="Go to top"><i class="fas fa-arrow-up"></i></button>
 
     <script>
-        // Тёмная тема
         const toggleBtn = document.getElementById('theme-toggle');
         const currentTheme = localStorage.getItem('theme') || 'light';
         document.documentElement.setAttribute('data-theme', currentTheme);
