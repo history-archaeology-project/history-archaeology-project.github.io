@@ -25,6 +25,9 @@ Then, the earth literally opened up. The eruption is estimated to have been four
 
 ## 🏛️ Is This the True Source of Atlantis?
 
+<img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQZfKYVrICd6ZcS8hDpQbiH-xPW2YV7ajryfktCSNoi5O0-wSdSwvIDgSrlSn0zqmBrD6-m_j6_Nu--6-E" alt="Akrotiri Spring Fresco" loading="lazy" width="700" height="530" style="display: block; margin: 20px 0; max-width: 100%; height: auto;">
+<p><em>The iconic 'Spring Fresco' from Akrotiri, featuring blooming lilies and swallows, remarkably preserved for millennia beneath the volcanic ash of Thera.</em></p>
+
 Centuries later, the Greek philosopher Plato wrote about a powerful, advanced island empire named Atlantis that sank into the ocean "in a single day and night of misfortune."
 
 Many modern archaeologists believe that Plato was actually describing a distorted historical memory of the Minoan collapse. The destruction of Thera fits the description perfectly: an advanced, seafaring civilization suddenly annihilated by a massive natural disaster.
