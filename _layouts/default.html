@@ -50,7 +50,6 @@
 
         {{ content }}
 
-                    <!-- Включаем Giscus только внутри статей -->
                     {% if page.url contains "articles" and page.url != "/articles/" %}
                     <div class="giscus-comments" style="margin-top: 50px; border-top: 1px solid var(--widget-border); padding-top: 30px;">
                       <script src="https://giscus.app/client.js"
