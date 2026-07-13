@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The Ice Core Mystery - Dating the Thera Cataclysm
 ---
 
