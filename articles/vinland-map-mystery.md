@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The Vinland Map - Viking Voyage or Modern Forgery?
 ---
 
