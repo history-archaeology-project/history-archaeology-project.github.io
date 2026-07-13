@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://history-archaeology.pages.dev/sitemap.xml
