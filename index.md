@@ -22,6 +22,9 @@ Explore the geographic locations of our archaeological and historical investigat
 
 ## 📚 Recent Articles
 
+*   ### 🗺️ [The Vinland Map: Viking Voyage or Modern Forgery?](/articles/vinland-map-mystery)
+    *How a map that rewrote American history fooled the world's top scholars before modern chemistry exposed the truth.*
+
 *   ### 🧊 [The Ice Core Mystery: Dating the Thera Cataclysm](/articles/ice-core-mystery)
     *How arctic ice cores from Greenland challenged Egyptian scribes and shook the timeline of the ancient world.*
 
