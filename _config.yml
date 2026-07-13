@@ -1,4 +1,7 @@
 remote_theme: []
+plugins:
+  - jekyll-sitemap
+  
 title: "History & Archaeology"
 description: "Digital archive of historical research and archaeological discoveries."
 
