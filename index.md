@@ -22,6 +22,9 @@ Explore the geographic locations of our archaeological and historical investigat
 
 ## 📚 Recent Articles
 
+*   ### 👑 [The Tomb of Qin Shi Huang: The Forbidden Empire of Mercury](/articles/tomb-of-qin-shi-huang)
+    *Why scientists are terrified to open the 2,200-year-old tomb of China's first Emperor, defended by deadly toxic rivers.*
+
 *   ### ⚔️ [The Bronze Age Collapse: How Civilization Ruined in a Few Decades](/articles/bronze-age-collapse)
     *How a hyper-connected network of ancient empires collapsed in a few short decades, throwing humanity into a 300-year Dark Age.*
 
