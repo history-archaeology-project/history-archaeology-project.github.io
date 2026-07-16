@@ -24,4 +24,4 @@ Welcome to the full archive of our historical and archaeological articles. Here 
 
 ---
 
-*Total articles: 6. More coming soon!*
+*Total articles: 13. More coming soon!*
