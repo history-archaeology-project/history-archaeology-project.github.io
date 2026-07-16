@@ -22,6 +22,9 @@ Explore the geographic locations of our archaeological and historical investigat
 
 ## 📚 Recent Articles
 
+*   ### 🦅 [The Nazca Lines: Ancient Geoglyphs of Peru](/articles/nasca-lines)
+    *How an ancient desert civilization created massive, perfect artworks that can only be seen from the sky.*
+
 *   ### 🏛️ [The Alexandria Library Myth: How the Great Archive Really Died](/articles/alexandria-library-myth)
     *Why Julius Caesar didn't actually burn down the ancient world's greatest library, and what really destroyed its legendary scrolls.*
 
