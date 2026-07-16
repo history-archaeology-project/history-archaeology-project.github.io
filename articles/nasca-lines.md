@@ -14,7 +14,7 @@ The **Nazca Lines** are massive geoglyphs etched into the desert floor—depicti
 
 Because they can only be fully appreciated from high in the air, they have triggered wild conspiracy theories for decades. How—and why—did an ancient civilization create these perfect designs 1,500 years before the invention of flight?
 
-![The Nazca Lines Hummingbird](https://upload.wikimedia.org/wikipedia/commons/e/ec/L%C3%ADneas_de_Nasca%2C_Nasca%2C_Per%C3%BA%2C_2015-03-02%2C_DD_51.JPG)*The famous Hummingbird geoglyph, perfectly preserved by the dry, windless climate of the Peruvian desert.*
+![The Nazca Lines Hummingbird](https://i.ibb.co/sp9nr8Fn/licensed-image.jpg)*The famous Hummingbird geoglyph, perfectly preserved by the dry, windless climate of the Peruvian desert.*
 
 ---
 
