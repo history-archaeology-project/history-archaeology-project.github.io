@@ -14,7 +14,7 @@ And then, in a span of just a few decades, nearly all of them vanished.
 
 Cities were burned to the ground, trade routes disappeared, writing systems were completely forgotten, and humanity was plunged into a Dark Age that lasted for centuries. This is the **Bronze Age Collapse**—one of the most devastating and mysterious systemic failures in human history.
 
-![Ancient Bronze Age Chariot Relief](https://upload.wikimedia.org/wikipedia/commons/2/23/Kadesh_Battle_Pharaoh_chariot.jpg)*An ancient Egyptian relief depicting the high-tech military machine of the Bronze Age: the war chariot. But even this technology couldn't save empires from sudden collapse.*
+![Ancient Bronze Age Chariot Relief](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw-PThgga6LIDAkNu_S7LTvLSiupfXfHyIHeQNQEBZkOIPATIjx3UWAE&s=10)*An ancient Egyptian relief depicting the high-tech military machine of the Bronze Age: the war chariot. But even this technology couldn't save empires from sudden collapse.*
 
 ---
 
