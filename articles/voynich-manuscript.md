@@ -14,7 +14,7 @@ The **Voynich Manuscript** is written in an entirely unknown script, illustrated
 
 Is it a lost scientific breakthrough, a complex secret code, or simply the most elaborate practical joke in medieval history?
 
-![Voynich Manuscript Page](https://i.ibb.co/dw8yffJf/voynich.jpg)*A typical page from the Voynich Manuscript, showing unidentified botanical illustrations alongside the enigmatic script.*
+![Voynich Manuscript Page](https://i.ibb.co/dw8yffJf/voynich.jpg) *A typical page from the Voynich Manuscript, showing unidentified botanical illustrations alongside the enigmatic script.*
 
 ---
 
