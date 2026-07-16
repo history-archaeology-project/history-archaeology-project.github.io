@@ -14,8 +14,6 @@ Constructed by the Inca Empire in the 15th century, this colossal complex featur
 
 Yet, the true mystery of Sacsayhuamán isn't just the sheer size of the stones—it is the impossible precision with which they were carved and fitted together.
 
-![A close-up view of the massive, interlocking stone blocks of the Sacsayhuamán fortress in Cusco, Peru, showing the incredibly precise joints where no mortar was used.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUzN096XgqOclQOqL5_8LdYjY6Rbyi4D5jQA&s=10)*The interlocking stone walls of Sacsayhuamán. The fit is so tight that even a single sheet of paper cannot be slid between the joints.*
-
 ---
 
 ## 📐 Impossible Precision Without Mortar
