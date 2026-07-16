@@ -5,6 +5,8 @@ plugins:
 title: "History & Archaeology"
 description: "Digital archive of historical research and archaeological discoveries."
 
+favicon: /favicon.ico
+
 navigation:
   - title: "Home"
     url: "/"
