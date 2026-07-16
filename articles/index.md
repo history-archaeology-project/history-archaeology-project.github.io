@@ -8,6 +8,7 @@ title: Archive of All Articles
 Welcome to the full archive of our historical and archaeological articles. Here you can find all published materials in chronological order.
 
 ---
+*   **[The Alexandria Library Myth: How the Great Archive Really Died](/articles/alexandria-library-myth)** — *Debunking the dramatic myth of the single fire that supposedly ended the ancient golden age of science.*
 *   **[The Voynich Manuscript: Unbreakable Cipher or Medieval Hoax?](/articles/voynich-manuscript)** — *A look inside the pages of the world's most mysterious, unreadable book.*
 *   **[The Antikythera Mechanism: The World's First Computer](/articles/antikythera-mechanism)** — *The mind-bending story of the 2,000-year-old Greek analog computer.*
 *   **[The Vinland Map: Viking Voyage or Modern Forgery?](/articles/vinland-map-mystery)** — *The forensic investigation into the world's most controversial medieval map.*   
