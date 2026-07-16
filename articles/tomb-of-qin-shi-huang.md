@@ -14,8 +14,6 @@ Thousands of life-sized, uniquely detailed clay soldiers had been standing in si
 
 Yet, despite finding the army, archaeologists have never dared to open the Emperor's actual burial chamber. Why is the tomb of the man who unified China still sealed, and what terrifying secrets are keeping modern scientists out?
 
-![Terracotta Army soldiers](https://upload.wikimedia.org/wikipedia/commons/d/d5/Terracotta_Army_soldiers.jpg)*A fraction of the legendary Terracotta Army. Each soldier has distinct facial features, hair, and armor, designed to protect the Emperor in the afterlife.*
-
 ---
 
 ## 🌊 Rivers of Liquid Death
