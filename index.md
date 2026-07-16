@@ -22,6 +22,9 @@ Explore the geographic locations of our archaeological and historical investigat
 
 ## 📚 Recent Articles
 
+*   ### ⚔️ [The Bronze Age Collapse: How Civilization Ruined in a Few Decades](/articles/bronze-age-collapse)
+    *How a hyper-connected network of ancient empires collapsed in a few short decades, throwing humanity into a 300-year Dark Age.*
+
 *   ### 🦅 [The Nazca Lines: Ancient Geoglyphs of Peru](/articles/nasca-lines)
     *How an ancient desert civilization created massive, perfect artworks that can only be seen from the sky.*
 
