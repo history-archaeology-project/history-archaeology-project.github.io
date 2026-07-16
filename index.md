@@ -22,6 +22,9 @@ Explore the geographic locations of our archaeological and historical investigat
 
 ## 📚 Recent Articles
 
+*   ### 🌿 [The Voynich Manuscript: Unbreakable Cipher or Medieval Hoax?](/articles/voynich-manuscript)
+    *The unsolved mystery of the 15th-century book that continues to baffle world-class cryptographers and advanced AI.*
+
 *   ### ⚙️ [The Antikythera Mechanism: The World's First Computer](/articles/antikythera-mechanism)
     *How a corroded bronze artifact from an ancient Greek shipwreck proved that high technology existed 2,000 years ago.*
 
