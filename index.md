@@ -22,8 +22,8 @@ Explore the geographic locations of our archaeological and historical investigat
 
 ## 📚 Recent Articles
 
-*   ### 🗺️ [The Vinland Map: Viking Voyage or Modern Forgery?](/articles/vinland-map-mystery)
-    *How a map that rewrote American history fooled the world's top scholars before modern chemistry exposed the truth.*
+*   ### ⚙️ [The Antikythera Mechanism: The World's First Computer](/articles/antikythera-mechanism)
+    *How a corroded bronze artifact from an ancient Greek shipwreck proved that high technology existed 2,000 years ago.*
 
 *   ### 🗺️ [The Vinland Map: Viking Voyage or Modern Forgery?](/articles/vinland-map-mystery)
     *How a map that rewrote American history fooled the world's top scholars before modern chemistry exposed the truth.*
