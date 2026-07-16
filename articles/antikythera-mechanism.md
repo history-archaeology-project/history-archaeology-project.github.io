@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The Antikythera Mechanism - The World's First Computer
 ---
 
