@@ -12,7 +12,7 @@ In **1974**, local farmers digging a well near Xi'an, China, stumbled upon one o
 
 Thousands of life-sized, uniquely detailed clay soldiers had been standing in silent battle formation for over 2,200 years, guarding the burial complex of **Qin Shi Huang**, the brutal and brilliant first Emperor of China.
 
-Yet, despite finding the army, archaeologists have never dared to open the Emperor's actual burial chamber. Why is the tomb of the man who unified China still sealed, and what terrifying secrets are keeping modern scientists out?
+Yet, despite finding the army, archaeologists have never dared to open the Emperor's actual burial chamber. Why is the tomb of the man who unified China still sealed, and what terrifying secrets are keeping modern scientists out? 
 
 ---
 
