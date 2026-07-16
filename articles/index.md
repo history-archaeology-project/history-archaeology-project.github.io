@@ -8,8 +8,7 @@ title: Archive of All Articles
 Welcome to the full archive of our historical and archaeological articles. Here you can find all published materials in chronological order.
 
 ---
-*   ### ⚙️ [The Antikythera Mechanism: The World's First Computer](/articles/antikythera-mechanism)
-    *How a corroded bronze artifact from an ancient Greek shipwreck proved that high technology existed 2,000 years ago.*
+*   **[The Vinland Map: Viking Voyage or Modern Forgery?](/articles/vinland-map-mystery)** — *The forensic investigation into the world's most controversial medieval map.*
 *   **[The Vinland Map: Viking Voyage or Modern Forgery?](/articles/vinland-map-mystery)** — *The forensic investigation into the world's most controversial medieval map.*   
 *   **[The Ice Core Mystery: Dating the Thera Cataclysm](/articles/ice-core-mystery)** — *The scientific detective story inside Greenland's ice caps.* 
 *   **[The Last Day of Akrotiri: Escape from Thera](/articles/last-day-of-akrotiri)** — *How an organized evacuation saved a population but left a ghost town preserved in time.*
