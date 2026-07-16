@@ -12,7 +12,7 @@ It is one of the most heartbreaking tragedies in the history of human progress: 
 
 We often blame Julius Caesar, religious zealots, or invading armies for this catastrophic cultural crime. But modern historians are now telling a very different story—one where there was no single apocalyptic fire, but rather a slow, painful death caused by something far more mundane.
 
-![The Burning of the Library of Alexandria](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Library_of_Alexandria_burning.jpg/800px-The_Library_of_Alexandria_burning.jpg)*A dramatic historical painting depicting the tragic destruction of the Great Library. But did it really happen this way?*
+![The Burning of the Library of Alexandria](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ancientlibraryalex.jpg/330px-Ancientlibraryalex.jpg)*A dramatic historical painting depicting the tragic destruction of the Great Library. But did it really happen this way?*
 
 ---
 
