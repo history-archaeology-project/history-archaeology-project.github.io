@@ -22,6 +22,9 @@ Explore the geographic locations of our archaeological and historical investigat
 
 ## 📚 Recent Articles
 
+*   ### 🏛️ [The Alexandria Library Myth: How the Great Archive Really Died](/articles/alexandria-library-myth)
+    *Why Julius Caesar didn't actually burn down the ancient world's greatest library, and what really destroyed its legendary scrolls.*
+
 *   ### 🌿 [The Voynich Manuscript: Unbreakable Cipher or Medieval Hoax?](/articles/voynich-manuscript)
     *The unsolved mystery of the 15th-century book that continues to baffle world-class cryptographers and advanced AI.*
 
