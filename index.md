@@ -21,6 +21,8 @@ Explore the geographic locations of our archaeological and historical investigat
 ---
 
 ## 📚 Recent Articles
+*   ### ⛰️ [Sacsayhuamán: The Megalithic Enigma of the Andes](/articles/sacsayhuaman)
+    *How the Incas built an indestructible fortress using giant 125-ton stones fitted together with sub-millimeter precision.*
 
 *   ### 👑 [The Tomb of Qin Shi Huang: The Forbidden Empire of Mercury](/articles/tomb-of-qin-shi-huang)
     *Why scientists are terrified to open the 2,200-year-old tomb of China's first Emperor, defended by deadly toxic rivers.*
