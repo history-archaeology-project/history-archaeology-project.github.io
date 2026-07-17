@@ -8,6 +8,7 @@ title: Archive of All Articles
 Welcome to the full archive of our historical and archaeological articles. Here you can find all published materials in chronological order.
 
 ---
+*   **[The Cothon of Carthage: The Ancient World's Hidden Naval Base](/articles/carthage-cothon)** — *An in-depth look into the circular naval fortress, double-docking system, and military secrecy of Carthage.*
 *   **[The Labyrinth of Knossos: Palace or Monster's Cage?](/articles/knossos-labyrinth)** — *Exploring the connection between the Minoan Palace of Knossos, bull-leaping rituals, and the Greek myth of the Minotaur.*
 *   **[The Baghdad Battery: Ancient Electricity or Chemical Hoax?](/articles/baghdad-battery)** — *Analyzing the structure, experiments, and theories behind the world's most controversial ancient artifact.*
 *   **[Sacsayhuamán: The Megalithic Enigma of the Andes](/articles/sacsayhuaman)** — *Exploring the impossible engineering, giant stones, and architectural secrets of the Cusco fortress.*
