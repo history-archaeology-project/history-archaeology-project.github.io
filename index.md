@@ -48,8 +48,6 @@ Explore the geographic locations of our archaeological and historical investigat
 *   ### 🧊 [The Ice Core Mystery: Dating the Thera Cataclysm](/articles/ice-core-mystery)
     *How arctic ice cores from Greenland challenged Egyptian scribes and shook the timeline of the ancient world.*
 
-* **[July 2026]** [The Last Day of Akrotiri: Escape from Thera](/articles/last-day-of-akrotiri.html) — A cinematic look into the final hours of a Minoan city before the Bronze Age apocalypse.
-
 *   ### 🌋 [The Minoan Eruption: The Real Atlantis?](/articles/minoan-eruption)
     *Explore the cataclysmic volcanic explosion around 1600 BCE that devastated the Minoan civilization and likely inspired the global legend of Atlantis.*
 
