@@ -27,5 +27,3 @@ Welcome to the full archive of our historical and archaeological articles. Here 
 *   **[The Mystery of the Sea Peoples: Who Destroyed the Bronze Age?](/articles/sea-peoples)** — *Around 1200 BCE, the civilized world of the Eastern Mediterranean came to a sudden and violent end.*
 
 ---
-
-*Total articles: 13. More coming soon!*
